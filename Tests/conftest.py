@@ -91,4 +91,4 @@ def pytest_runtest_makereport(item):
 
 
 def pytest_html_report_title(report):
-    report.title = "My Gov Functional Testing"
+    report.title = "Demo QA Functional Testing"
